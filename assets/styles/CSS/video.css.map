@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,OAAO,CAAC,oFAAI",
+    "sources": [
+        "../SASS/video.sass",
+        "../SASS/partials/_variables.sass"
+    ],
+    "names": [],
+    "file": "video.css"
+}
